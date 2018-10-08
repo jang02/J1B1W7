@@ -1,0 +1,30 @@
+#container {
+    display: grid;
+    grid-template-areas:
+            'logo menu menu'
+            'content content content'
+            'content1 content2 content3'
+            'footer footer footer';
+}
+
+#logo {
+    grid-area: logo;
+}
+#menu {
+    grid-area: menu;
+}
+#content {
+    grid-area: content;
+}
+.content1 {
+    grid-area: content1;
+}
+.content2 {
+    grid-area: content2;
+}
+.content3 {
+    grid-area: content3;
+}
+#footer {
+    grid-area: footer;
+}
