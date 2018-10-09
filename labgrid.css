@@ -1,0 +1,33 @@
+div#container {
+	display: grid;
+	grid-template-areas: 
+	'menu menu menu menu'
+	'banner banner banner banner'
+	'commando commando max netbinnen'
+	'griep zonovergoten schandaal netbinnen'
+	;
+}
+#menu {
+	grid-area: menu;
+}
+#banner {
+	grid-area: banner;
+}
+#commando {
+	grid-area: commando;
+}
+#max {
+	grid-area: max;
+}
+#netbinnen {
+	grid-area: netbinnen;
+}
+#griep {
+	grid-area: griep;
+}
+#zonovergoten {
+	grid-area: zonovergoten;
+}
+#schandaal {
+	grid-area: schandaal;
+}

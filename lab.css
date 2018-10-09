@@ -1,0 +1,7 @@
+div#container {
+	max-width: 1027px;
+	margin: 0px auto;
+}
+#commando, #max, #netbinnen, #griep, #zonovergoten, #schandaal {
+	margin: 5px;
+}

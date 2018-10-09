@@ -67,3 +67,26 @@ div#error {
 	font-size: 50px;
 	line-height: 60px;
 }
+#bannercar {
+	padding: 75px;
+}
+#bannertekstcar {
+	padding-top: 80px;
+}
+.subimgsize {
+	margin: 15px;
+	height: 100px;
+	width: 275px;
+}
+#bannerkleding {
+	padding: 15px;
+	height: 300px;
+	width: 300px;
+}
+#kledingbannertekst {
+	padding-top: 100px;
+}
+.subkleding{
+	height: 200px;
+	width: 170px;
+}
